@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Hani</a>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=An+investment+in+knowledge+always+pays+the+best+interest)](https://git.io/typing-svg)
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
 <!--
 **hyousiff44/hyousiff44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
